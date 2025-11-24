@@ -1,6 +1,6 @@
 # Projeto Orbitta Agenda
 ## Eventos da astronomia e astronáutica -> Banco de Dados
-O Orbita:
+O Orbitta:
 Banco de dados SQLite. Tabelas:
 
 ### Eventos astronômicos
