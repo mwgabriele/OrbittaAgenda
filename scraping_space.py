@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import sqlite3
-from control import missao
 
 #
 # raspagem de missões do site space launch
